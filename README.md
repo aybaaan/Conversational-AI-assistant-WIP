@@ -1,4 +1,4 @@
-Conversational AI Assistant (Work-in-Progress)
+Conversational AI Assistant (WIP)
 
 GitHub license
 
